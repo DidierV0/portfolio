@@ -74,7 +74,7 @@ header .accroche h2{
 }
 
 header nav{
-    margin-top: 8rem;
+    margin-top: 6rem;
     display: flex;
     gap: 1rem;
     flex-direction: column;
@@ -108,6 +108,7 @@ header .photo{
 }
 
 header .photo img{
+    margin-top: 2rem;
     height: 20rem;
 }
 
